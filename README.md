@@ -25,7 +25,7 @@ matplotlib
       └── scan*_train/
           └── depth_map*.pfm
   ```
-
+- 链接：https://aistudio.baidu.com/datasetdetail/207802/0
 ### 预训练模型
 从MiDaS官方仓库下载预训练模型：
 - DPT-SwinV2-T-256模型：[dpt_swin2_tiny_256.pt](https://github.com/isl-org/MiDaS)
